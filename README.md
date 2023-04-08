@@ -21,11 +21,7 @@ ps: This page is still a work in progress.
 - Vision Transformers
 - Explainable and relianlble AI soulutions
 
-## 📫 How to reach me:
 
-- [LinkedIn](https://www.linkedin.com/in/sainadh-thikkireddi-639605177)
-- [GitHub](https://github.com/SainadhAmul)
-- Email: sainathmars08@gmail.com / sainadhthikkireddi@gmail.com
 
 ## 🔧 Technologies & Tools:
 
@@ -81,8 +77,8 @@ how I feel after asking chatgpt to write test cases, create docstrings or more d
 
 ## 🤝 Let's connect!
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sainadh-thikkireddi-639605177) or [Twitter](https://twitter.com/your_handle). I'm always open to new opportunities and collaborations in the field of data science and AI.
-
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sainadh-thikkireddi-639605177). I'm always open to new opportunities and collaborations in the field of data science and AI.
+- Email: sainathmars08@gmail.com / sainadhthikkireddi@gmail.com
 
 ## 💬 Ask me about
 
