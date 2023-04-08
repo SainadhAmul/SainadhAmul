@@ -1,9 +1,11 @@
 
 # Hi there, I'm Sainadh Thikkireddi 👋
 
-![banner](https://github.com/username/banner_image.png)
+~If AI is a superpower, those who can weild it well are superheros. And I aspire to be one the best.
 
-I'm your friendly neighborhood data science and AI enthusiast with a passion for developing innovative solutions. With over 4 years of experience, I've honed my skills in various domains such as computer vision, RCNNs, NLP, anomaly detection, and MLOps using cloud technologies like AWS.
+![My Overview](https://github.com/SainadhAmul/SainadhAmul/blob/main/res/vegeta-its-over9000.gif?raw=true)
+
+Howdy! I'm a data science and AI enthusiast who loves to create cutting-edge solutions. With over 4 years of experience, I've honed my skills in various domains such as computer vision, RCNNs, NLP, anomaly detection, and MLOps using cloud technologies like AWS.
 
 ![funny_image](https://github.com/username/funny_image.png)
 
@@ -24,11 +26,11 @@ I'm your friendly neighborhood data science and AI enthusiast with a passion for
 - [Explainable CNN for Scene Classification](https://github.com/SainadhAmul/explainable_cnn_sc)
 - [EVA-5 Capstone Project](https://github.com/SainadhAmul/EVA-5-Capstone)
 
-## 🌱 I'm currently learning ...
+## 🌱 I'm currently learning and exploring...
 
-- Advanced techniques in computer vision and NLP
-- MLOps best practices for building self-sustained and monitored pipelines
-- Cloud technologies and AWS services for machine learning applications
+- MLops for building self-sustained and monitored pipelines
+- Vision Transformers
+- Explainable and relianlble AI soulutions
 
 ## 📫 How to reach me:
 
