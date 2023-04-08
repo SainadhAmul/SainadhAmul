@@ -1,30 +1,12 @@
 
 # Hi there, I'm Sainadh Thikkireddi 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sainadhthikkireddi&label=Profile%20views&color=0e75b6&style=flat" alt="sainadhthikkireddi" /> </p>
 ~If AI is a superpower, those who can weild it well are superheros. And I aspire to be one the best.
 
 ![My Overview](https://github.com/SainadhAmul/SainadhAmul/blob/main/res/vegeta-its-over9000.gif?raw=true)
 
 Howdy! I'm a data science and AI enthusiast who loves to create cutting-edge solutions. With over 4 years of experience, I've honed my skills in various domains such as computer vision, RCNNs, NLP, anomaly detection, and MLOps using cloud technologies like AWS.
 
-![funny_image](https://github.com/username/funny_image.png)
-
-## 🎓 Education & Accomplishments:
-
-### M.Tech (Masters in Data Science and Engineering):
-
-- [Explainable CNN for Scene Classification](https://github.com/SainadhAmul/explainable_cnn_sc)
-
-### PGD in Data Science:
-
-- [Marketing Analytics Case Study](https://github.com/SainadhAmul/EVA-5-Capstone)
-
-## 🏆 Major Competitions & Projects
-
-- [Datathon 2019](https://github.com/SainadhAmul/Datathon2019)
-- [Kaggle Competitions - Recommender Systems](https://github.com/SainadhAmul/RecomenderSYS_works)
-- [Explainable CNN for Scene Classification](https://github.com/SainadhAmul/explainable_cnn_sc)
-- [EVA-5 Capstone Project](https://github.com/SainadhAmul/EVA-5-Capstone)
 
 ## 🌱 I'm currently learning and exploring...
 
@@ -48,11 +30,8 @@ Howdy! I'm a data science and AI enthusiast who loves to create cutting-edge sol
 ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
-## 📊 Some of my GitHub stats:
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-[![Sainadh's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)](https://github.com/username/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)](https://github.com/username/github-readme-stats)
 
 ## 🌟 Projects I'm proud of:
 
@@ -61,11 +40,32 @@ Howdy! I'm a data science and AI enthusiast who loves to create cutting-edge sol
 - [Project 3](https://github.com/username/project3)
 
 
-## 🌟 Projects I've worked with ChatGPT:
+## 🌟 Projects that I've worked with ChatGPT on:
+
+Who needs coffee when you have an AI model that can do the heavy lifting. I feel like Iron Man, building my suit all while conversing with AI, a trusty sidekick with minor flaws.
 
 - [Project 1](https://github.com/username/project1)
 - [Project 2](https://github.com/username/project2)
 - [Project 3](https://github.com/username/project3)
+
+
+## 🎓 Education & Academic Projects:
+
+### M.Tech (Masters in Data Science and Engineering):
+
+- [Explainable CNN for Scene Classification](https://github.com/SainadhAmul/explainable_cnn_sc)
+
+### PGD in Data Science:
+
+- [Marketing Analytics Case Study](https://github.com/SainadhAmul/EVA-5-Capstone)
+
+## 🏆 Major Competitions & Projects
+
+- [Datathon 2019](https://github.com/SainadhAmul/Datathon2019)
+- [Kaggle Competitions - Recommender Systems](https://github.com/SainadhAmul/RecomenderSYS_works)
+- [Explainable CNN for Scene Classification](https://github.com/SainadhAmul/explainable_cnn_sc)
+- [EVA-5 Capstone Project](https://github.com/SainadhAmul/EVA-5-Capstone)
+
 
 ## 🤝 Let's connect!
 
