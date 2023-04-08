@@ -5,7 +5,7 @@
 
 ![My Overview](https://github.com/SainadhAmul/SainadhAmul/blob/main/res/vegeta-its-over9000.gif?raw=true)
 
-Howdy! I'm a data science and AI enthusiast who loves to create cutting-edge solutions. With over 4 years of experience, I've honed my skills in various domains such as computer vision, RCNNs, NLP, anomaly detection, and MLOps using cloud technologies like AWS.
+Howdy! I'm a data science and AI enthusiast who loves to create cutting-edge solutions. With over 4 years of experience, My diverse expertise and work experience have empowered me to develop a multitude of AI-driven solutions. These range from computer vision and RCNN-based OCR engines to automated end-to-end machine learning applications, natural language processing (NLP) enabled RPA, anomaly detection on streaming and batch data, and MLOps for building self-sustained and monitored pipelines using cloud technologies such as AWS.
 
 
 ## 🌱 I'm currently learning and exploring...
