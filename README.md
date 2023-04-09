@@ -61,7 +61,7 @@ how I feel after asking chatgpt to write test cases, create docstrings or more d
 
 ### M.Tech (Masters in Data Science and Engineering):
 
-- [Explainable CNN for Scene Classification](https://github.com/SainadhAmul/explainable_cnn_sc)
+- [Explainable CNN's for Healthcare](https://github.com/SainadhAmul/explainable_cnn_sc)
 
 ### PGD in Data Science:
 
