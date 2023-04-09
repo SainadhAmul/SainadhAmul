@@ -65,7 +65,7 @@ how I feel after asking chatgpt to write test cases, create docstrings or more d
 
 ### PGD in Data Science:
 
-- [Marketing Analytics Case Study](https://github.com/SainadhAmul/EVA-5-Capstone)
+- [Marketing Analytics Case Study](https://github.com/SainadhAmul/advance_marketing_analytics_customer_modelling)
 
 ## 🏆 Major Competitions & Projects
 
