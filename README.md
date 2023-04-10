@@ -46,7 +46,7 @@ ps: This page is still a work in progress.
 
 Who needs coffee when you have an AI model that can do the heavy lifting. I feel like Iron Man, building my suit all while conversing with AI, a trusty sidekick with minor flaws.
 
-- [Project 1](https://github.com/username/project1)
+- [Blockchain and Cryptocurrency Implementation](https://github.com/SainadhAmul/crypto_bc_pycoin)
 - [Project 2](https://github.com/username/project2)
 
 how I feel after asking chatgpt to write test cases, create docstrings or more detailed docmentation for my work.
