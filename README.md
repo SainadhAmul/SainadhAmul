@@ -39,7 +39,7 @@ ps: This page is still a work in progress.
 
 - [Yolo on Tom and Jerry](https://github.com/SainadhAmul/EVA-4-B2/tree/master/S13)
 - [Explainable Vision Models for Skin Cancer Detection](https://github.com/SainadhAmul/explainable_cnn_sc)
-
+- [Image Captioning](https://github.com/SainadhAmul/image_captioing_encoder_decoder_network)
 
 
 ## :fire: Small Projects that I've worked with ChatGPT on: (WIP)
