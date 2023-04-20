@@ -42,7 +42,7 @@ ps: This page is still a work in progress.
 - [Image Captioning](https://github.com/SainadhAmul/image_captioing_encoder_decoder_network)
 
 
-## :fire: Small Projects that I've worked with ChatGPT on: (WIP)
+## :fire: Mini use cases that I've worked with ChatGPT on: (WIP)
 
 Who needs coffee when you have an AI model that can do the heavy lifting. I feel like Iron Man, building my suit all while conversing with AI, a trusty sidekick with minor flaws.
 
