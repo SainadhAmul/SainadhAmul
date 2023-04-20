@@ -2,7 +2,7 @@
 # Hi there, I'm Sainadh Thikkireddi 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainadhthikkireddi&label=Profile%20views&color=0e75b6&style=flat" alt="sainadhthikkireddi" /> </p>
-~If AI is a superpower, those who can weild it well are superheros, I aspire to be one the best. :muscle:
+~If AI is a superpower, those who can weild it well are superheros. I aspire to be one the best! :muscle:
 
 </br>
 </br>
