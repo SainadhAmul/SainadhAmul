@@ -92,5 +92,5 @@ The best way to get in touch with me is through LinkedIn. Feel free to send me a
 
 ## ⚡ Fun fact
 
-In my free time, I love to watching/reading science fiction content, especially realated to time-travel and other paradoxical concepts. I'm a big Anime fan, and any works of fiction and fantasy always get my attention. In addition to this, I enjoy reading comics and manga, with "Solo Levelling" and "Dragon Ball" being some of my absolute favorites. I also have a thing for movies, and "Jersey" (Telugu Film), "Interstellar" & "The Matrix"  are some of my favorites. And, just between us, I'm still hoping to receive my acceptance letter from Hogwarts. 🧙‍♂️📚
+In my free time, I love to watching/reading science fiction content, especially realated to time-travel and other paradoxical concepts. I'm a big Anime fan, and any works of fiction and fantasy always get my attention. In addition to this, I enjoy reading comics and manga, with "Solo Levelling" and "Dragon Ball" being some of my absolute favorites. I also have a thing for movies, and "Jersey" (Telugu Film), "Interstellar" & "The Matrix"  are some of my favorites.
 
