@@ -12,7 +12,7 @@ I'm fascinated by the untapped power of AI. My work focuses on unlocking that po
 </p>
 </br>
 
-Howdy! I'm a data science and AI enthusiast who loves to create cutting-edge solutions. With over 4 years of experience, My diverse expertise and work experience have empowered me to develop a multitude of AI-driven solutions. These range from computer vision and RCNN-based OCR engines to automated end-to-end machine learning applications, natural language processing (NLP) enabled RPA, anomaly detection on streaming and batch data, and MLOps for building self-sustained and monitored pipelines using cloud technologies such as AWS. Right now, I'm super excited about the potential of Gen AI and how it can change the game.  If you have a passion for AI and building the future, let's connect!
+Howdy! I'm a data science and AI enthusiast who loves to create cutting-edge solutions. With over 5 years of experience, My diverse expertise and work experience have empowered me to develop a multitude of AI-driven solutions. These range from computer vision and RCNN-based OCR engines to automated end-to-end machine learning applications, natural language processing (NLP) enabled RPA, anomaly detection on streaming and batch data, and MLOps for building self-sustained and monitored pipelines using cloud technologies such as AWS. Right now, I'm super excited about the potential of Gen AI and how it can change the game.  If you have a passion for AI and building the future, let's connect!
 
 ps: This page is still a work in progress.
 
